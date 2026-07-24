@@ -1,0 +1,20 @@
+{
+  "KPlugin": {
+    "Name": "Smart ALT-F4",
+    "Description": "ALT-F4 on desktop to power off",
+    "Icon": "preferences-system-windows",
+    "Authors": [
+      {
+        "Email": "simone.ancona00@gmail.com",
+        "Name": "Simone Ancona"
+      }
+    ],
+    "Id": "smartaltf4",
+    "Version": "1.0",
+    "License": "GPLv3",
+    "Website": "https://github.com/SimoneAncona/kde-altf4"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/closeOrShutdown.js",
+  "KPackageStructure": "KWin/Script"
+}
