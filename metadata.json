@@ -15,6 +15,5 @@
     "Website": "https://github.com/SimoneAncona/kde-altf4"
   },
   "X-Plasma-API": "javascript",
-  "X-Plasma-MainScript": "code/closeOrShutdown.js",
   "KPackageStructure": "KWin/Script"
 }
